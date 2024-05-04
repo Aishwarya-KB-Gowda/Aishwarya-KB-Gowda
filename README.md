@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Aishwarya-KB-Gowda/Aishwarya-KB-Gowda/blob/main/ai.gif)
 <h1 align="center">Hi 👋, I'm Aishwarya K B</h1>
 <h3 align="center">A passionate cloud engineer from India</h3>
 
