@@ -1,4 +1,4 @@
-![logo](https://github.com/Aishwarya-KB-Gowda/Aishwarya-KB-Gowda/blob/main/Untitled%20design.png width="800")
+![logo  width="800"](https://github.com/Aishwarya-KB-Gowda/Aishwarya-KB-Gowda/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Aishwarya K B</h1>
 <h3 align="center">A passionate cloud engineer from India</h3>
 
