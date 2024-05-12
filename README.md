@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aishwarya K B</h1>
-<h3 align="center">A passionate cloud engineer from India</h3>
+<h3 align="center">A passionate cyber security from India</h3>
 
 <img align="right" width="500" height="300" alt="coding" src="https://miro.medium.com/v2/resize:fit:679/1*NCGC9pN10cTacXQpBq7PvA.gif">
 
